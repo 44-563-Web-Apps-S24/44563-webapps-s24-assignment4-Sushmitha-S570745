@@ -1,0 +1,28 @@
+
+.speech{
+    font-size:medium; 
+    font-family:serif;
+    color: black;
+}
+.direction{
+    font-size:smaller;
+    font-family: Verdana;
+    color: black;
+    background-color:lightsteelblue;
+}
+.direction:hover{
+    background-color:lightyellow;
+    color: darkgoldenrod;
+}
+.OLGA{
+    color: limegreen;
+}
+.IRINA{
+    color: brown;
+}
+.CHEBUTIKIN{
+    color: blue;
+}
+.TUZENBACH{
+    color: aqua;
+}
