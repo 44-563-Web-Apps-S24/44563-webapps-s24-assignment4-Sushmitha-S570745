@@ -1,4 +1,3 @@
-
 .name{
 font-family: Arial;
 }
@@ -30,3 +29,23 @@ font-family: Arial;
 .TUZENBACH{
     color: aqua;
 }
+.SOLENI{
+    color: hotpink;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 2px solid blue;
+    margin: 2px;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+    border: 2px solid blue;
+  }
+  
+  tr:nth-child(even)
+   {
+    background-color:aqua;
+ }
