@@ -55,4 +55,39 @@ table {
    {
     background-color:aqua;
  }
- 
+
+ .bottom-navbar {
+    background-color: darkorange;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding: 2px;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+   
+    }
+   
+    .bottom-navbar a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 12px ;
+    color: black;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    }
+   
+    .bottom-navbar i {
+    font-size: 10px;
+    margin-bottom: 18px;
+    }
+    
+   
+    .bottom-navbar a:hover {
+    color: white;
+    }
+   
+    .fa {
+    padding-top: 3%;
+    }
+   
